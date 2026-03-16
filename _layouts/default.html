@@ -57,6 +57,11 @@
       {% include section-contact.html %}
     </section>
     {% endif %}
+    {%if site.show_photography_card %}
+    <section class="card neumorphism-card-big">
+      {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+    </section>
+    {% endif %}
   </div>
   {% include footer.html %}
 </body>
