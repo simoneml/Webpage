@@ -10,7 +10,7 @@ description: Simone Landry's personal website powered by Jekyll
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: simoneml
+username: Simone Landry
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: A.A. Mathematics, Undergraduate Certificate Data Science
@@ -48,7 +48,7 @@ skills_title: Skills
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
-# cv_download_link: The link where you host your cv.
+cv_download_link: https://docs.google.com/document/d/1rUeL88YBX9zevUoYgIP4cu69fhvbw-OehInpTdMdefU/edit?usp=sharing
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 
 # PROJECTS SECTION
