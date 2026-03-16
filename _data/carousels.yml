@@ -1,7 +1,7 @@
 carousels:
   - images: 
-    - image: assets/img/DuckKeyboard.jpg
-    - image: assets/img/GirlsInAviation.jpg
-    - image: assets/img/JazzSkeletons.jpg
-    - image: assets/img/NashvilleWindowView.jpg
-    - image: assets/img/OverlookingWaterfall1.jpg
+    - image: /assets/img/DuckKeyboard.jpg
+    - image: /assets/img/GirlsInAviation.jpg
+    - image: /assets/img/JazzSkeletons.jpg
+    - image: /assets/img/NashvilleWindowView.jpg
+    - image: /assets/img/OverlookingWaterfall1.jpg
