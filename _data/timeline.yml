@@ -17,45 +17,74 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: National Flight Academy
+  title-url: https://nationalflightacademy.com/welcome/
+  date: Jan 2025 - Present
+  subtitle: Facilitator
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Escambia County School District
+  title-url: https://www.escambiaschools.org/
+  date: Aug 2023 - Present
+  subtitle: Substitute Teacher
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: National Flight Academy
+  title-url: https://nationalflightacademy.com/welcome/
+  date: Dec 2022 - Jan 2025
+  subtitle: Shift Manager
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Camp Fire Gulf Wind
+  title-url: https://www.campfirekidsfl.org/
+  date: Aug 2022 - May 2023
+  subtitle: Assistant Site Director
+  timeline-side: left
+
+- title: Computational Statistics and Data Analytics Lab
+  title-url: https://csdalab.github.io/
+  date: Mar 2025 - Present
+  subtitle: Undergraduate Researcher
+  timeline-side: left
+
+- title: University of West Florida
+  title-url: https://uwf.edu/
+  date: Aug 2022 - Present
+  subtitle: B.S. Mathematics, Minor Statistics, Undergraduate Certificate Data Science
+  tags:
+    - tag: SAS
+    - tag: R Markdown
+    - tag: Python
+    - tag: SQL
+    - tag: MATLAB
+  timeline-side: left
+
+- title: National Flight Academy
+  title-url: https://nationalflightacademy.com/welcome/
+  date: May 2022 - Dec 2022
+  subtitle: Camp Counselor
+  timeline-side: right
+  
+- title: Camp Fire Gulf Wind
+  title-url: https://www.campfirekidsfl.org/
+  date: Mar 2022 - Aug 2022
+  subtitle: Site Director
+  timeline-side: left
+
+- title: Camp Fire Gulf Wind
+  title-url: https://www.campfirekidsfl.org/
+  date: Aug 2021 - Mar 2022
+  subtitle: After School Teacher
+  timeline-side: left
+
+- title: Girl Scouts of Gateway Council
+  title-url: https://www.gsgateway.org/
+  date: Sep 2021 - Present
+  subtitle: Adult Volunteer
+  timeline-side: right
+
+- title: Pensacola State College 
+  title-url: https://www.pensacolastate.edu/
+  date: 2021 - 2022
+  subtitle: A.A. Mathematics
   timeline-side: left
