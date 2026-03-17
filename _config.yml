@@ -81,8 +81,8 @@ contact_description: My available methods of contact if you want to reach out.
 
 #PHOTOGRAPHY SECTION
 show_photography_card: true
-photography_title: Selected Photography
-photography_description: I do some photography for fun.  Here I've highlighted a few photos I've taken.
+photography_title: Gallery
+photography_description: I like to take pictures of my adventures and things that catch my eye.
 
 # GITHUB-METADATA
 # Set this to your forked repository
