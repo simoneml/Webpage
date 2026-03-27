@@ -60,7 +60,7 @@ show_projects_card: true
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
 show_projects: true
-projects_title: Assorted Projects
+projects_title: Projects
 
 # show_os_projects:
 # > setting this to true, will display your public projects on github
